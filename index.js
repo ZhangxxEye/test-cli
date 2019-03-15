@@ -52,7 +52,7 @@ program.version('1.0.0', '-v, --version')
         }
         inquirer.prompt(promps).then(function (answers) {
             if (answers.moduleType === 'vue') {
-                download('ccbabi/talk-template-vue', name, (err) => {
+                download('ZhangxxEye/vue-components-template', name, (err) => {
                     console.log(err ? err : '下载模板成功')
                 })
             }

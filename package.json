@@ -1,7 +1,7 @@
 {
   "name": "test-cli",
   "version": "1.0.0",
-  "description": "脚手架学习使搭建脚手架公工具",
+  "description": "脚手架学习使搭建脚手架工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
